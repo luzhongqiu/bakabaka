@@ -21,7 +21,7 @@ setup(
     ),
     author="Nic Lu",
     author_email="zq.lu@foxmail.com",
-    url="https://github.com/nic/bakabaka",
+    url="https://github.com/luzhongqiu/bakabaka",
     packages=find_packages("src"),
     package_dir={"": "src"},
     py_modules=[path.stem for path in Path("src").glob("*.py")],

@@ -1,5 +1,3 @@
-import python_docs_theme
-
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
@@ -26,10 +24,6 @@ extlinks = {
     "pr": ("https://github.com/nic/bakabaka/pull/%s", "PR #"),
 }
 html_theme = "python_docs_theme"
-html_theme_path = [python_docs_theme.get_html_theme_path()]
-html_theme_options = {
-    "githuburl": "https://github.com/nic/bakabaka/",
-}
 
 html_use_smartypants = True
 html_last_updated_fmt = "%b %d, %Y"

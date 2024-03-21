@@ -17,13 +17,13 @@ Overview
     :target: https://readthedocs.org/projects/bakabaka/
     :alt: Documentation Status
 
-.. |github-actions| image:: https://github.com/nic/bakabaka/actions/workflows/github-actions.yml/badge.svg
+.. |github-actions| image:: https://github.com/luzhongqiu/bakabaka/actions/workflows/github-actions.yml/badge.svg
     :alt: GitHub Actions Build Status
-    :target: https://github.com/nic/bakabaka/actions
+    :target: https://github.com/luzhongqiu/bakabaka/actions
 
-.. |codecov| image:: https://codecov.io/gh/nic/bakabaka/branch/main/graphs/badge.svg?branch=main
+.. |codecov| image:: https://codecov.io/gh/luzhongqiu/bakabaka/branch/main/graphs/badge.svg?branch=main
     :alt: Coverage Status
-    :target: https://app.codecov.io/github/nic/bakabaka
+    :target: https://app.codecov.io/github/luzhongqiu/bakabaka
 
 .. |version| image:: https://img.shields.io/pypi/v/bakabaka.svg
     :alt: PyPI Package latest release
@@ -41,9 +41,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/bakabaka
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/nic/bakabaka/v0.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/luzhongqiu/bakabaka/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/nic/bakabaka/compare/v0.0.0...main
+    :target: https://github.com/luzhongqiu/bakabaka/compare/v0.0.0...main
 
 
 
@@ -60,7 +60,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/nic/bakabaka/archive/main.zip
+    pip install https://github.com/luzhongqiu/bakabaka/archive/main.zip
 
 
 Documentation
