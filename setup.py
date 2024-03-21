@@ -13,7 +13,7 @@ def read(*names, **kwargs):
 
 setup(
     name="bakabaka",
-    version="0.0.0",
+    version="0.0.1",
     description="bakabaka ai common for someone who really know it's value",
     long_description="{}\n{}".format(
         re.compile("^.. start-badges.*^.. end-badges", re.M | re.S).sub("", read("README.rst")),
